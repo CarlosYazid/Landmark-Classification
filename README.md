@@ -13,6 +13,7 @@ It includes three main workflows: training a CNN from scratch, applying transfer
 ├── transfer_learning.ipynb  # Transfer learning with pretrained ResNet
 ├── app.ipynb                # Simple inference and demo app
 ├── src/
+│   ├── helpers.py           # Project utilities
 │   ├── model.py             # Custom CNN architecture
 │   ├── transfer.py          # Transfer learning model builder
 │   ├── train.py             # Training, validation, testing loops
@@ -49,7 +50,7 @@ It includes three main workflows: training a CNN from scratch, applying transfer
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cnn-image-classification.git
+   git clone https://github.com/CarlosYazid/cnn-image-classification.git
    cd cnn-image-classification
    ```
 
