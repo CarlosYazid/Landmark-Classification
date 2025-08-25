@@ -50,7 +50,7 @@ It includes three main workflows: training a CNN from scratch, applying transfer
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CarlosYazid/cnn-image-classification.git
+   git clone https://github.com/CarlosYazid/Landmark-Classification.git
    cd cnn-image-classification
    ```
 
