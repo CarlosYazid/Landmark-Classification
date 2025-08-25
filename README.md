@@ -1,4 +1,4 @@
-# CNN Image Classification Project
+# Landmark-Classification
 
 This project demonstrates how to train and evaluate Convolutional Neural Networks (CNNs) for image classification using **PyTorch**.  
 It includes three main workflows: training a CNN from scratch, applying transfer learning, and deploying a simple prediction app.
